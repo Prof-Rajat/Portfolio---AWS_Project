@@ -2,7 +2,7 @@
 A professional single-page portfolio hosted on AWS using a secure, scalable architecture.
 
 ## 🚀 Live Demo
-http://jaipur-devops-portfolio-rajatkumawat.s3-website.eu-north-1.amazonaws.com
+https://d2zq8pkre0ess9.cloudfront.net
 
 ## 🛠️ Architecture
 - **Storage:** Amazon S3 (Static Website Hosting enabled)
